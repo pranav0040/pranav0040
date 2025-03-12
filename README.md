@@ -4,6 +4,8 @@
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=geeky406" alt="LeetCode Badges" />
 <img src="https://github.com/pranav0040/badges-leetcode/blob/main/2024-50.gif" alt="LEetcode badge" />
+<img src="https://github.com/pranav0040/badges-leetcode/blob/main/202502.gif" />
+<img src="https://github.com/pranav0040/badges-leetcode/blob/main/2550.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-maithani-450a3b259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmaithani04@gmail.com) 
