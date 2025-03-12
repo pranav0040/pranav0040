@@ -2,7 +2,7 @@
 ## Hi there! 👋  <br><br>I'm **Pranav Maithani**, a passionate developer currently working on **MERN stack applications** and constantly exploring new technologies.  <br><br>### 🚀 About Me  <br>- 🔭 Currently working on **MERN stack applications**  <br>- 🌱 Learning **MERN (MongoDB, Express.js, React.js, Node.js)**  <br>- 💡 Interested in **Full-Stack Development, AI, and Open Source**  <br>- 💬 Ask me about **C++, Java, and AI**  <br>- 📫 Reach me at **[pranavmaithani04@gmail.com](mailto:pranavmaithani04@gmail.com)**  <br><br>### 🛠 Tech Stack  <br><br>| **Languages**  | **Frontend** | **Backend** | **Databases** |<br>|---------------|-------------|-------------|--------------|<br>| C++ 🟦 | HTML5 📄 | Node.js 🟢 | MongoDB 🍃 |<br>| Java ☕ | CSS3 🎨 | Express.js 🚀 | MySQL 🐬 |<br>| JavaScript ⚡ | React.js ⚛️ | Tailwind CSS 🌊 |  |<br><br>### 📈 GitHub Stats  <br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  <br><br>### 🎯 Let's Connect!  <br>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranav-maithani-450a3b259/)  <br><br>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={geeky406}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=geeky406" alt="LeetCode Badges" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranav Maithani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmaithani04@gmail.com) 
 
