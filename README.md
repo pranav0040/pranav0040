@@ -35,7 +35,7 @@ I'm currently exploring advanced backend concepts and building full-stack applic
 [![LeetCode Stats](https://leetcard.jacoblin.cool/geeky406?theme=dark&font=Montserrat&ext=contest)](https://leetcode.com/geeky406)
 
 <p align="center">
-  <img src="https://github.com/pranav0040/badges-leetcode/blob/main/100d.gif" width="32%" height="50px"/>
+  <img src="https://github.com/pranav0040/badges-leetcode/blob/main/100d.gif" width="32%"/>
   <img src="https://github.com/pranav0040/badges-leetcode/blob/main/2024-50.gif" width="32%" />
   <img src="https://github.com/pranav0040/badges-leetcode/blob/main/202502.gif" width="32%" />
   <img src="https://github.com/pranav0040/badges-leetcode/blob/main/2550.gif" width="32%" />
