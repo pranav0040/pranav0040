@@ -18,9 +18,9 @@ I'm currently exploring advanced backend concepts and building full-stack applic
 |-----------------------|---------------------|----------------------|------------------|-------------------------|
 | C++ 🟦                | HTML5 📄            | Node.js 🟢           | MongoDB 🍃       | Git, Postman, Vercel    |
 | Java ☕               | CSS3 🎨             | Express.js 🚀        | MySQL 🐬         | Render, JWT, Nodemon    |
-| JavaScript ⚡         | React.js ⚛️         | Tailwind CSS 🌊      |                  |                         |
+| JavaScript ⚡         | React.js ⚛️         |                      |                  |                         |
 | Python 🐍             | React Router 🔁     |                      |                  |                         |
-
+|                        |Tailwind CSS 🌊      |
 ---
 
 ### 📈 GitHub Stats  
